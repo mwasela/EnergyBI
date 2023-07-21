@@ -1,3 +1,9 @@
+# GBHL COMPRESSOR DATA HARVESTING SCRIPT 
+# COMPRESSOR TA - 001
+# IP = 192.168.5.250
+# Running through SERA networks on Python TESTBED SERVER
+
+
 import time
 import asyncio
 from pymodbus.client import ModbusTcpClient
